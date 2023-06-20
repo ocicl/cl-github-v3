@@ -1,0 +1,7 @@
+* cl-github-v3
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/hanshuebner/cl-github-v3.git |
+| commit  | 73a8b11                                             |
+| systems | cl-github-v3                                        |
+|---------+-----------------------------------------------------|
