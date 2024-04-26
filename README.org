@@ -2,6 +2,6 @@
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/hanshuebner/cl-github-v3.git |
-| commit  | 73a8b11                                             |
+| commit  | e66c7bd                                             |
 | systems | cl-github-v3                                        |
 |---------+-----------------------------------------------------|
