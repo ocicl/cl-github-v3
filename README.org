@@ -1,8 +1,8 @@
 * cl-github-v3
 
 |---------+-----------------------------------------------------|
-| source  | git:https://github.com/atgreen/cl-github-v3.git     |
-| commit  | 1ccb3c2                                             |
+| source  | git:https://github.com/hanshuebner/cl-github-v3.git |
+| commit  | 0000000                                             |
 | systems | cl-github-v3                                        |
 |---------+-----------------------------------------------------|
 
